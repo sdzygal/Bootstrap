@@ -1,0 +1,5 @@
+{
+    "editor.wordWrap": "on",
+    "editor.acceptSuggestionOnEnter": "on",
+    "workbench.list.multiSelectModifier": "alt"
+}
